@@ -42,3 +42,4 @@ Users should be able to:
 - Website - [Add your name here](https://BarbareUgrekhelidze.github.io/NFT-preview-card-component-main/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/settings)
 
+
